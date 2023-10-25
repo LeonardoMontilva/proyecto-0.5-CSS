@@ -52,7 +52,7 @@ tr:hover{
     background: linear-gradient(to right, #7b145c,#821e70b5)
 }
 
-@media (min-width: 48 0px) {
+@media (min-width: 480px) {
     table{
         border-collapse: collapse;
         border: 2px solid grey;
@@ -64,6 +64,4 @@ tr:hover{
         
     
     }
-    
-    
 }
